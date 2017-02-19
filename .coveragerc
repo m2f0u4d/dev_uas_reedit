@@ -1,0 +1,5 @@
+[run]
+include = dev_uas_reedit/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
