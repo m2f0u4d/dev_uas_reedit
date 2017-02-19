@@ -1,7 +1,8 @@
 dev_uas
 =======
 
-Dies ist ein Test 
+this is a testing repo for djangobased webbased frontend stuff
+lets give it a try
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
